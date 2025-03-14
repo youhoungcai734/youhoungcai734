@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
+我叫蔡宥泓，是個程式菜鳥
 <!--
 **youhoungcai734/youhoungcai734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
